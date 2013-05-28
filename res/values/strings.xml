@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+	
+ 	<string name="SDCardMounted">SD card OK.</string>
+	<string name="SDCardReadOnly">SD card is read only.</string>
+	<string name="SDCardRemoved">No SD card.</string>
+	<string name="SDCardShared">SD card is mounted to PC.</string>
+	<string name="SDCardBadRemoval">SD card is removed before unmount.</string>
+	<string name="SDCardChecking">Checking SD card.</string>
+	<string name="SDCardNOFS">File system of SD card is not supported.</string>
+	<string name="SDCardUnMountable">Can\'t mount SD card.</string>
+	<string name="SDCardUnMounted">Can\'t mount SD card.</string>
+	<string name="SDCardUnknownError">Can\'t use SD card.</string>
+ 
+</resources>

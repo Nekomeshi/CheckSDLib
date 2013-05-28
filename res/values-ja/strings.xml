@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="SDCardMounted">SDカードは読み書き可能です。</string>
+	<string name="SDCardReadOnly">SDカードは読み取り専用です。</string>
+	<string name="SDCardRemoved">SDカードが装着されていません。</string>
+	<string name="SDCardShared">SDカードが装着されていますが、PCなどにマウント中です。</string>
+	<string name="SDCardBadRemoval">SDカードのアンマウントをする前に、取り外しました。</string>
+	<string name="SDCardChecking">SDカードのチェック中です。</string>
+	<string name="SDCardNOFS">SDカードはブランクであるか、サポートされていないファイルシステムです。</string>
+	<string name="SDCardUnMountable">SDカードは装着されていますが、マウントすることができません。</string>
+	<string name="SDCardUnMounted">SDカードは存在されていますが、マウントすることができません。</string>
+	<string name="SDCardUnknownError">SDカードは利用できません。</string>
+ 
+</resources>
